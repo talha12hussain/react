@@ -84,7 +84,7 @@ const Footer = () => {
         <p>
           <p className=" text-center py-4">
             @copyright developed by
-            <span className=" text-brightColor"> champion programmers</span> | All
+            <span className=" text-brightColor"> Talha programmers</span> | All
             rights reserved
           </p>
         </p>
